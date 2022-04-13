@@ -1,0 +1,42 @@
+.head {
+  text-align: center;
+  height: 90px;
+  background-color: rgb(223, 206, 132);
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background: #f0f5f9;
+}
+
+.card {
+  position: relative;
+
+  margin: 50px auto;
+  width: auto;
+  padding: 20px;
+  box-shadow: 3px 10px 20px rgba(0, 0, 0, 0.2);
+  border-radius: 3px;
+  border: 0;
+}
+.content {
+    margin-top: 25px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  h1 {
+    font-size: 34px;
+    font-weight: bold;
+    margin-bottom: 0;
+  }
+
+ 
+
+  .social {
+    margin-bottom: 5px;
+  }
+.date{
+  text-align: end;
+  font-family: Arial, Helvetica, sans-serif;
+}
